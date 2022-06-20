@@ -1,4 +1,5 @@
 ## Hi there 👋
+## Welcome to,
+# Epic Crap LLC
 
-
-[![GitHub All Releases](https://img.shields.io/github/downloads/vedza/NitroSniperGo/total?style=flat)](https://github.com/vedza/NitroSniperGo/releases)
+#### full of useless stuff
